@@ -233,3 +233,6 @@ This repository serves as the official landing page for PDF to Word. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of PDF to Word today!**
+
+---
+**Last updated:** 2026-09-09 18:24:28 UTC
