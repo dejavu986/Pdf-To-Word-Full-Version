@@ -235,4 +235,4 @@ This repository serves as the official landing page for PDF to Word. The softwar
 **Get the most recent version of PDF to Word today!**
 
 ---
-**Last updated:** 2026-10-14 22:08:49 UTC
+**Last updated:** 2026-10-15 01:19:01 UTC
